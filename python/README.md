@@ -1,4 +1,4 @@
-# Python checklist
+# Python checklist (python version: 3.5+)
 
 ## Module 1: Introduction
 - Introduction to python & zen of python
