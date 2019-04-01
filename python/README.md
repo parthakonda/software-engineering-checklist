@@ -1,5 +1,8 @@
 # Python checklist (python version: 3.5+)
 
+# Mindmap
+![Mindmap](https://github.com/parthakonda/software-engineering-checklist/blob/master/python/PythonFundamentalsCourse-MindMap-1.png?raw=true)
+
 ## Module 1: Introduction
 - Introduction to python & zen of python
 - Understanding PEP
