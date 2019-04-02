@@ -28,7 +28,7 @@ For webapplications? yes it is.
 To present your application/data then one must skilled at html & css. This will also helps you developing Web, Mobile, Native apps. HTML is straight forwarded. Having fundamentals of CSS (minimum of selectors, pseduo selectors, positioning, flex, grid, etc,.). However, if you're good with fundamentals of CSS then it will be very easy for you pickup css frameworks such as bootstrap, flat ui, etc,..
 
 ## 4. JavaScript
-Javascript framework or just javascript (advanced)? In 2009 it is like only javascript and Jquery. But in 2019 there are bunch of framework which are continously adding and evolving day to day. 
+Javascript framework or just javascript (advanced)? In 2009 it was like only javascript and Jquery. But in 2019 there are bunch of framework which are continously adding and evolving day to day. 
 
 How come framework evolving is kind of a problem?
 
